@@ -1,0 +1,13 @@
+Tipos primitivos nas linguagens de programação
+
+Int
+float
+booleano
+string
+
+exemplos:
+
+Int: 1, 5, 3, 6
+float: 3.0, 3.5, 5.6
+bool: True, False
+string: "olá", "7", "sete"
